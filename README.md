@@ -26,7 +26,7 @@ File -> New Simulator -> Give it a name, choose an OS and device type -> Create.
 
 ### 4. Clone this Repository 
 
-    $ git clone 
+    $ git clone https://github.com/karchevskii/ios17_firebase.git
 
 ### 5. Configure Firebase
 
